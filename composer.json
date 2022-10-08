@@ -1,17 +1,22 @@
 {
-    "name": "dillingham/soft-deletes-parent",
+    "name": "tihab/soft-deletes-parent",
     "description": "Soft delete children when parent soft deletes",
     "keywords": [
         "dillingham",
         "laravel",
         "soft-deletes-parent"
     ],
-    "homepage": "https://github.com/dillingham/soft-deletes-parent",
+    "homepage": "https://github.com/tihab/soft-deletes-parent",
     "license": "MIT",
     "authors": [
         {
             "name": "Brian Dillingham",
             "email": "brian@dillingham.dev",
+            "role": "Developer"
+        }.
+         {
+            "name": "Tamer Ramzy",
+            "email": "tameihab@gmail.com",
             "role": "Developer"
         }
     ],
